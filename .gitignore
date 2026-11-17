@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+data/
+outputs/
+flagged/
+vendor_packages/
+wheelhouse/
+*.log
+*.pth
+*.pt
